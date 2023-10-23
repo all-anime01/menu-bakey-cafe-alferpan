@@ -163,7 +163,7 @@ html {
 /* ********************************** */
 .banner {
 	background-image: linear-gradient(100deg, #000000, #00000020),
-		url('/img/banner.jpg');
+		url('https://cdn.diariodeavisos.com/wp-content/uploads/2018/07/pan-y-cafe.jpg');
 	height: 60rem;
 	background-size: cover;
 	background-position: center;
@@ -837,9 +837,6 @@ html {
 		padding: 2rem;
 	}
 
-	.customer-support {
-		display: none;
-	}
 
 	.content-shopping-cart {
 		display: none;
@@ -852,7 +849,7 @@ html {
 	.navbar .fa-bars {
 		display: block;
 		color: #fff;
-		font-size: 3rem;
+		font-size: 2rem;
 	}
 
 	.menu {
@@ -1015,7 +1012,7 @@ html {
 	.contact-info ul,
 	.information ul,
 	.my-account ul {
-		display: none;
+		text-align: center;
 	}
 
 	.contact-info {
